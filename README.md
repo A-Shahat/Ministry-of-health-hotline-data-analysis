@@ -96,18 +96,7 @@ call volume patterns. Instead of a single prediction, it produces a
 |----------|---------|
 | **Total monthly volume** | How many calls next 6 months? |
 | **Per-employee volume** | Individual workload predictions |
-
-
-### Forecast Results
-
-| Month | 5th % | 25th % | Median | 75th % | 95th % |
-|-------|-------|--------|--------|--------|--------|
-| Jan 2026  737    2,367    3,477    4,610    6,180
-  Feb 2026  849    2,370    3,489    4,590    6,145
-  Mar 2026  843    2,417    3,516    4,602    6,196
-  Apr 2026  782    2,332    3,457    4,560    6,132
-  May 2026  821    2,393    3,481    4,592    6,146
-  Jun 2026  832    2,399    3,500    4,574    6,158 |
+|
 
 ---
 
@@ -211,12 +200,6 @@ deliver actionable insights for the Ministry.
 | 💼 LinkedIn | [linkedin.com/in/ahmed-shahat](https://linkedin.com/in/ahmed-shahat) |
 | 🐱 GitHub | [github.com/A-Shahat](https://github.com/A-Shahat) |
 | 🌐 Other Project | [Egyptian Healthcare Distribution Analysis](https://github.com/A-Shahat/egyptian-healthcare-analysis) |
-
----
-
-## 📜 License
-
-MIT License — see [LICENSE](LICENSE)
 
 ---
 
