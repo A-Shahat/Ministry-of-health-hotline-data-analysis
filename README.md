@@ -10,8 +10,6 @@
 - [Monte Carlo Forecasting](#-monte-carlo-forecasting)
 - [Methodology](#-methodology)
 - [Technologies](#-technologies)
-- [Installation & Usage](#-installation--usage)
-- [Project Structure](#-project-structure)
 - [Recommendations](#-recommendations)
 - [About the Analyst](#-about-the-analyst)
 
